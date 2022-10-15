@@ -5,4 +5,4 @@ Pour le développement de ce lecteur audio avancé, j'ai réutilisé:
 
 J'ai récupéré ces différents composant directement du TP1 du cours.
 
-J'ai développer le css et le découpage des components
+J'ai développé le css et le découpage des web components.
